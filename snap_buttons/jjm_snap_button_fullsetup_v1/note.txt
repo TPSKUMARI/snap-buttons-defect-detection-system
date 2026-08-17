@@ -1,0 +1,14 @@
+# Activate the environemnet 
+C:/Users/idea8/Desktop/jjm_final/venv/Scripts/Activate.ps1
+
+# run the system
+python main.py
+
+# wanted files 
+distance_check.py
+main.py
+calibration.py
+calibration.json
+best.pt
+
+#for autorun .sh file want
